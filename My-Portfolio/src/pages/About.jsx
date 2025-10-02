@@ -1,4 +1,4 @@
-// src/pages/About.js
+
 import React from "react";
 import "./About.css";
 
@@ -18,14 +18,14 @@ export default function About() {
             Outside of coding, I enjoy playing games like <em>Baldur’s Gate 3</em> 
             and <em>Elden Ring</em>. I also love biking and spending time with animals.
           </p>
-          <a
-            href="/resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn"
-          >
-            📄 Download My Resume
-          </a>
+         <a
+  href="/Tyler%20Haywards%20Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="btn"
+>
+  📄 Download My Resume
+</a>
         </div>
       </div>
 
