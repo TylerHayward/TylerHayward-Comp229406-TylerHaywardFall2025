@@ -10,7 +10,7 @@ export default function Projects() {
       description:
         "A collection of assignments and projects I have completed as part of my programming coursework.",
       role: "Developed various small applications and exercises to strengthen my programming skills.",
-      link: "https://github.com/TylerHayward/Comp229406-TylerHaywardFall2025",
+      link: "https://github.com/TylerHayward?tab=repositories",
     }
   ];
 

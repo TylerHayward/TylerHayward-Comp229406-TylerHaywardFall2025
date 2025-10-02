@@ -1,13 +1,13 @@
-// src/components/Navbar.js
+
 import React from "react";
 import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
     <nav className="navbar">
-      {/* This assumes your logo image is in public/Images/IMG_1009.jpg */}
+     
       <img
-        src="/Images/PFP.jpg" // Make sure this path is correct for your actual logo!
+        src="/Images/PFP.jpg" 
         alt="My Portfolio Logo"
         className="navbar-logo"
       />
